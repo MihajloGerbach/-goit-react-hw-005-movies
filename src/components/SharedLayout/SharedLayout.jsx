@@ -1,7 +1,7 @@
 import { Outlet, Link } from "react-router-dom";
 import { Suspense } from "react";
 import { FiFilm } from 'react-icons/fi';
-import { BsGithub, BsLinkedin } from 'react-icons/bs';
+import { BsGithub,  } from 'react-icons/bs';
 import { Spinner } from '../Spinner/Spinner';
 import { Container, Header, LogoWrapper, Navigation, Footer, StyledLink, SocialList, LogoLink} from './SharedLayout.styled';
 
